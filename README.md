@@ -4,6 +4,10 @@ This project is deployed and running on Hugging Face Space!
 
 [![Hugging Face Space Badge](https://huggingface.co/{shravan25}/{BPE-Encoder}/badge)](https://huggingface.co/spaces/shravan25/BPE-Encoder)
 
+Here is the output of the model running on Hugging Face Space:
+
+![Snapshot](./HF_Snap.png)
+
 ## Overview
 This project implements a Byte Pair Encoding (BPE) tokenizer that processes text in any language. The tokenizer compresses text by iteratively merging the most frequent pairs of characters or subwords, resulting in tokens. It provides insights into the vocabulary size, the length of tokens, and the compression ratio achieved during the process.
 
