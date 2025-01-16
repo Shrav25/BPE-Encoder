@@ -4,6 +4,8 @@
 
 This project is deployed and running on Hugging Face Space!
 
+![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-orange)
+
 [![Hugging Face Space Badge](https://huggingface.co/{shravan25}/{BPE-Encoder}/badge)](https://huggingface.co/spaces/shravan25/BPE-Encoder)
 
 Here is the output of the model running on Hugging Face Space:
