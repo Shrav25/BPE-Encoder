@@ -1,6 +1,6 @@
 # Byte Pair Encoding (BPE) Tokenizer
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-orange)
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg) ![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-orange) ![Gradio](https://img.shields.io/badge/Gradio-Demo-orange?logo=gradio)
 
 This project is deployed and running on Hugging Face Space!
 
