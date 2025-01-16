@@ -1,5 +1,7 @@
 # Byte Pair Encoding (BPE) Tokenizer
 
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+
 This project is deployed and running on Hugging Face Space!
 
 [![Hugging Face Space Badge](https://huggingface.co/{shravan25}/{BPE-Encoder}/badge)](https://huggingface.co/spaces/shravan25/BPE-Encoder)
